@@ -20,6 +20,8 @@ accordingly. So a grid point with a value of 0 will remain black, while a grid
 point with a value of 9 will have 9 points rendered around it, with them being
 concentrated primarily in its center.
 
+  Here's the youtube video of it in action: https://www.youtube.com/watch?v=-syTIinQFQQ
+
 ## Background
 
   This is an honest raytracer, at least for a certain definition of honesty - 
