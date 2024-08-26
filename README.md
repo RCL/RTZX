@@ -1,10 +1,10 @@
 # RTZX
 
 -------------------------------------------------------------------------------
- RTZX 1KiB procedural gfx - a contribution to Chaos Constructions 2024
- 		by RCL of Virtual Vision Group.
+ Simple raytracer that works on ZX Spectrum 48K and above in under 45 seconds.
 
- Works on ZX Spectrum 48K and above.
+ A contribution to 1KiB procedural gfx compo at Chaos Constructions 2024 
+                 by RCL of Virtual Vision Group.
 
  Source code in Z80 assembly.
 
